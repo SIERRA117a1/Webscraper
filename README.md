@@ -1,13 +1,9 @@
-1. open personal.py first an copy your User agent... Just Gooogle it... whats my user agent.
+1. open personal.py first and copy your User agent.(Your user agent can be found by simply googling it)
 
 2. open main.py
 
 3. open test.py
 
-4. it will take a long time to update data.
+4. Updating data takes a long time.
 
-
-this should work..
-WARNING: Web scraping(WS) is not legal without the permission of the server... This program is only made for getting an impression of WS... so don't use in any of your program without considering the risk.
-
-feel free to contribut any change.
+WARNING: Web scraping(WS) is not legal unless you have the permission of the server owner. This Program is made just for educational purposes. Use it at your own risk.
